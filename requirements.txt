@@ -1,0 +1,6 @@
+streamlit
+yt-dlp
+moviepy
+torch
+speechbrain
+ffmpeg-python
